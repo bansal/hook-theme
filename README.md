@@ -6,8 +6,8 @@ This landing page theme is built on [shorthand css framework](https://github.com
 
 ## Credit
 
-Picture unsplash.com
-Icons feathericons.com
+* Picture [unsplash](https://unsplash.com)
+* Icons [feathericons](https://feathericons.com)
 
 ## LICENSE
 
